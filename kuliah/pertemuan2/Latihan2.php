@@ -5,8 +5,7 @@ $pekerjaan = "mahasiswa";
 $jurusan = "Teknik Informatika";
 $universitas = "UNPAS";
 
- echo "<h1>$nama</h1>";
- echo "<P>$email</p>";
+echo "<h1>$nama</h1>";
+echo "<P>$email</p>";
 
- echo "Halo, nama saya $nama, saya $pekerjaan di $jurusan $universitas";
- ?>
+echo "Halo, nama saya $nama, saya $pekerjaan di $jurusan $universitas";
